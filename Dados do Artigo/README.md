@@ -1,3 +1,16 @@
+
+Article Title: Evaluating IMERG Precipitation for SWAT+ Streamflow Simulation in a Subtropical Brazilian Basin
+
+Authors:
+Varlei Barbosa Gonçalves,
+Leonidas Alejandro Arias Baltazar,
+Carlos Henrique Moraes Praia,
+Régis Sperotto de Quadros,
+Douglas da Silva Lindemann,
+Diuliana Leandro,
+Daniela Buske
+
+**Description**
 This directory contains the datasets, figures, and supporting files used in the hydrological analyses presented in the article. The files are organized according to their purpose in the study.
 
  Directory structure
